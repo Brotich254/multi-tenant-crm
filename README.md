@@ -29,3 +29,4 @@ npm run dev            # http://localhost:3000
 - **Team Members** — invite members by email, role-based access (Owner/Admin/Member)
 - **Dashboard** — pipeline stats, deal stage breakdown, recent activity feed
 - **JWT Auth** — register, login, session management
+# Invoice-Platform
